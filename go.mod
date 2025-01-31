@@ -38,16 +38,16 @@ require (
 	github.com/sendgrid/sendgrid-go v3.16.0+incompatible
 	github.com/spf13/afero v1.12.0
 	github.com/spf13/viper v1.19.0
-	github.com/uptrace/bun v1.2.8
+	github.com/uptrace/bun v1.2.9
 	github.com/uptrace/bun/dialect/pgdialect v1.2.8
 	github.com/uptrace/bun/dialect/sqlitedialect v1.2.8
-	github.com/uptrace/bun/driver/pgdriver v1.2.8
+	github.com/uptrace/bun/driver/pgdriver v1.2.9
 	github.com/uptrace/bun/driver/sqliteshim v1.2.8
 	github.com/uptrace/bun/extra/bundebug v1.2.8
 	github.com/urfave/cli/v2 v2.27.5
 	go.opentelemetry.io/contrib/instrumentation/github.com/labstack/echo/otelecho v0.58.0
 	go.opentelemetry.io/contrib/processors/baggagecopy v0.6.0
-	go.opentelemetry.io/otel v1.33.0
+	go.opentelemetry.io/otel v1.34.0
 	golang.org/x/crypto v0.32.0
 	golang.org/x/net v0.34.0
 	golang.org/x/oauth2 v0.25.0
@@ -165,7 +165,7 @@ require (
 	github.com/libp2p/go-reuseport v0.4.0 // indirect
 	github.com/lufia/plan9stats v0.0.0-20240513124658-fba389f38bae // indirect
 	github.com/magiconair/properties v1.8.7 // indirect
-	github.com/mattn/go-colorable v0.1.13 // indirect
+	github.com/mattn/go-colorable v0.1.14 // indirect
 	github.com/mattn/go-isatty v0.0.20 // indirect
 	github.com/mattn/go-sqlite3 v1.14.24 // indirect
 	github.com/mholt/acmez/v2 v2.0.3 // indirect
@@ -213,7 +213,7 @@ require (
 	github.com/prometheus/client_model v0.6.1 // indirect
 	github.com/prometheus/common v0.61.0 // indirect
 	github.com/prometheus/procfs v0.15.1 // indirect
-	github.com/puzpuzpuz/xsync/v3 v3.4.0 // indirect
+	github.com/puzpuzpuz/xsync/v3 v3.5.0 // indirect
 	github.com/quic-go/qpack v0.5.1 // indirect
 	github.com/quic-go/quic-go v0.48.2 // indirect
 	github.com/quic-go/webtransport-go v0.8.1-0.20241018022711-4ac2c9250e66 // indirect
@@ -264,11 +264,11 @@ require (
 	go.opentelemetry.io/otel/exporters/otlp/otlptrace/otlptracegrpc v1.31.0 // indirect
 	go.opentelemetry.io/otel/exporters/otlp/otlptrace/otlptracehttp v1.31.0 // indirect
 	go.opentelemetry.io/otel/log v0.9.0 // indirect
-	go.opentelemetry.io/otel/metric v1.33.0 // indirect
+	go.opentelemetry.io/otel/metric v1.34.0 // indirect
 	go.opentelemetry.io/otel/sdk v1.33.0 // indirect
 	go.opentelemetry.io/otel/sdk/log v0.9.0 // indirect
 	go.opentelemetry.io/otel/sdk/metric v1.31.0 // indirect
-	go.opentelemetry.io/otel/trace v1.33.0 // indirect
+	go.opentelemetry.io/otel/trace v1.34.0 // indirect
 	go.opentelemetry.io/proto/otlp v1.3.1 // indirect
 	go.uber.org/dig v1.18.0 // indirect
 	go.uber.org/fx v1.23.0 // indirect
