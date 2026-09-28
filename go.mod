@@ -4,7 +4,14 @@ go 1.23
 
 toolchain go1.23.0
 
+module github.com/containerish/OpenRegistry
+
+go 1.23
+
+toolchain go1.23.0
+
 require (
+	github.com/XSAM/otelsql v0.44.0
 	github.com/alexliesenfeld/health v0.8.0
 	github.com/alphadose/haxmap v1.4.1
 	github.com/aws/aws-sdk-go-v2 v1.33.0
