@@ -31,5 +31,6 @@ func ConfigureOtel(config config.Telemetry, service string, e *echo.Echo) func()
 		return otelShutdown
 	}
 
+	e.Use(otelecho.Middleware(service))
 	return nil
 }
